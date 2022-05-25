@@ -1,0 +1,15 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+
+p {
+  width: 200px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 1.2rem;
+  background-color: red;
+  color: red;
+  text-shadow: 1px 1px black;
+}
